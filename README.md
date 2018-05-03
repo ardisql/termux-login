@@ -1,2 +1,4 @@
 # termux-login
-Termux-Login 
+git clone 
+cd termux-login
+python log.py
